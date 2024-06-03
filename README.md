@@ -69,37 +69,6 @@ VITE_PUBLIC_API_BASE_URL=${api-url} #backend API URL used by the frontend
   - Move to the Java project root directory
   - run command `mvn test`, this will run test cases and give results in the terminal
 
-The deployed project can be accessed at http://csci5308vm5.research.cs.dal.ca:3000
-
-Requires Dal VPN (setup: https://dalu.sharepoint.com/sites/its/SitePages/vpn.aspx)
-
-## TDD Followed
-
-### Save Search Alert functionality
-
-- Test case commit functionality : https://git.cs.dal.ca/courses/2023-fall/csci-5308/Group05/-/commit/c315d27e742fe4794f7d813a29b887209ea7af94
-- Functionality code commit : https://git.cs.dal.ca/courses/2023-fall/csci-5308/Group05/-/commit/0e88c7c81836e94bcbce4e39c3082abc4a42664e
-
-### Get Trip functionality
-
-- Test case commit functionality : https://git.cs.dal.ca/courses/2023-fall/csci-5308/Group05/-/commit/25f734b35c06be71a3693779498a287d34280b8d
-- Functionality code commit : https://git.cs.dal.ca/courses/2023-fall/csci-5308/Group05/-/commit/a4cb7a6d14556b78f14c2e1af8c0862e12a7406e
-
-### Delete Trip functionality
-
-- Test case commit : https://git.cs.dal.ca/courses/2023-fall/csci-5308/Group05/-/commit/fb0920db02a35c578f7b19132debdfe209c77a85
-- Functionality code commit : https://git.cs.dal.ca/courses/2023-fall/csci-5308/Group05/-/commit/a0721feeb512695220d187113227b502f2d7907a
-
-### Get Reviews and rating functionality
-
-- Test case commit : https://git.cs.dal.ca/courses/2023-fall/csci-5308/Group05/-/commit/d88b74f2fb21f6d2359c05dd45a002e258a90216
-- Functionality code commit : https://git.cs.dal.ca/courses/2023-fall/csci-5308/Group05/-/commit/3a5cac40579511264c49c8e8462a75621cb0cab7
-
-### Save Reviews and rating functionality
-
-- Test case commit : https://git.cs.dal.ca/courses/2023-fall/csci-5308/Group05/-/commit/203cf47718ba1640c4d5fe3c13c65b946435e6d4
-- Functionality code commit : https://git.cs.dal.ca/courses/2023-fall/csci-5308/Group05/-/commit/e637d16dd46c6f5105a5374449869b968475b59f
-
 ## Dependencies
 
 ### Frameworks and Tools used
